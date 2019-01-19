@@ -16,7 +16,7 @@
 
 1. Clone the project
 
-2. change the path of the dataset at line 189 of ObjectiveSensational_SVMClassifier by adding the right path to train_path.
+2. Change the path of the dataset at line 189 of ObjectiveSensational_SVMClassifier by adding the right path to train_path.
 
 3. Run the code
 
@@ -32,7 +32,7 @@
 
 5. Classification Report
 
-# The Results can be found in the Final Project here in the repository.
-# Final Model chosen - SVM 
+### The Results can be found in the Final Project here in the repository.
+### Final Model chosen - SVM 
 
 
